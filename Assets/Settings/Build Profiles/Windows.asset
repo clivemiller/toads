@@ -24,6 +24,10 @@ MonoBehaviour:
     m_path: Assets/Scenes/MainMenuStyled.unity
   - m_enabled: 1
     m_path: Assets/Scenes/PauseMenuStyled.unity
+  - m_enabled: 1
+    m_path: Assets/Scenes/LevelSelector.unity
+  - m_enabled: 1
+    m_path: Assets/Scenes/LevelMasterScene.unity
   m_HasScriptingDefines: 0
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:

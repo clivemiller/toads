@@ -165,6 +165,7 @@ GameObject:
   - component: {fileID: 480303020}
   - component: {fileID: 480303019}
   - component: {fileID: 480303018}
+  - component: {fileID: 480303021}
   m_Layer: 0
   m_Name: Menu Buttons_0
   m_TagString: Untagged
@@ -307,6 +308,21 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!114 &480303021
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 480303016}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f417146f60b1a6541ad7c505b46627b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SceneButtonHandler
+  clickCamera: {fileID: 1978897207}
+  sceneName: LevelSelector
+  clickSound: {fileID: 0}
 --- !u!1 &763588985
 GameObject:
   m_ObjectHideFlags: 0
@@ -337,7 +353,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 634dbce6fd295554d9dd39c9d2cbdf1b, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.284
+  m_Volume: 0.3
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -639,6 +655,8 @@ MonoBehaviour:
   - sceneName: MainMenuStyled
     musicClip: {fileID: 8300000, guid: d9a522ef1c763e44d844ffd170531cda, type: 3}
   - sceneName: PauseMenuStyled
+    musicClip: {fileID: 8300000, guid: d9a522ef1c763e44d844ffd170531cda, type: 3}
+  - sceneName: LevelSelector
     musicClip: {fileID: 8300000, guid: d9a522ef1c763e44d844ffd170531cda, type: 3}
   musicVolume: 0.5
   fadeDuration: 1
