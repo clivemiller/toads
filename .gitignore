@@ -1,127 +1,59 @@
-############################
-# UNITY GENERATED FOLDERS
-############################
+# =========================
+# Unity generated folders
+# =========================
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
+[Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
-[Mm]emoryCaptures/
 
-############################
-# UNITY CACHE / ARTIFACTS
-############################
-sysinfo.txt
-*.stackdump
-
-############################
-# VISUAL STUDIO / IDE
-############################
+# =========================
+# Visual Studio / IDE
+# =========================
 .vs/
 .vscode/
 .idea/
-*.suo
-*.user
-*.userprefs
-*.rsuser
-*.pidb
-*.booproj
-*.svd
-
-############################
-# VISUAL STUDIO BUILD OUTPUT
-############################
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
-bld/
-[Bb]in/
-[Oo]ut/
-
-############################
-# VISUAL STUDIO PROJECT FILES
-############################
 *.csproj
 *.sln
-*.tmp_proj
-*.log
-*.vspscc
-*.vssscc
-*.VC.db
-*.VC.opendb
+*.user
+*.userprefs
+*.pidb
+*.booproj
 
-############################
-# DOTNET / NUGET
-############################
-*.nupkg
-*.snupkg
-*.nuget.props
-*.nuget.targets
-project.lock.json
-project.fragment.lock.json
-artifacts/
-!packages/build/
-
-############################
-# OS GENERATED FILES
-############################
+# =========================
+# OS junk
+# =========================
 .DS_Store
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-############################
-# COMPILERS / TEMP FILES
-############################
-*.ilk
-*.meta.tmp
-*.obj
-*.iobj
-*.pch
-*.pdb
-*.ipdb
-*.pgc
-*.pgd
-*.rsp
-*.tmp
+# =========================
+# Unity cache files
+# =========================
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
 
-############################
-# CRASH / PROFILER OUTPUT
-############################
-*.psess
-*.vsp
-*.vspx
-*.sap
-*.e2e
+# =========================
+# Build artifacts
+# =========================
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.dll
 
-############################
-# NODE / PYTHON (JUST IN CASE)
-############################
-node_modules/
-__pycache__/
-*.pyc
+# =========================
+# Crash reports
+# =========================
+sysinfo.txt
 
-############################
-# UNITY META FILES (CRITICAL)
-############################
-# DO NOT IGNORE META FILES
-!*.meta
-/Assets/Ball.cs.meta
-/Assets/Bouncy.physicsMaterial2D
-/Assets/Bouncy.physicsMaterial2D.meta
-/Assets/DefaultVolumeProfile.asset
-/Assets/DefaultVolumeProfile.asset.meta
-/Assets/InputSystem_Actions.inputactions
-/Assets/InputSystem_Actions.inputactions.meta
-/Assets/Player1.cs
-/Assets/Player1.cs.meta
-/Assets/Scenes.meta
-/Assets/Settings.meta
-/Assets/UniversalRenderPipelineGlobalSettings.asset
-/Assets/UniversalRenderPipelineGlobalSettings.asset.meta
+# =========================
+# Addressables / Shader cache
+# =========================
+AddressableAssetsData/*/*.bin*
+ShaderCache/
