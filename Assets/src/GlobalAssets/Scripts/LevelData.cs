@@ -64,27 +64,15 @@ public static class LevelDataStore
         // ));
     }
     
-    public static LevelData GetLevelById(int id)
+    public static LevelData GetLevel()
     {
-        if (levels.ContainsKey(id))
+        if (levels.ContainsKey(PlayerPrefs.GetInt("SelectedLevel")))
         {
-            return levels[id];
+            return levels[PlayerPrefs.GetInt("SelectedLevel")];
         }
-        
-        Debug.LogWarning($"Level with ID {id} not found. Returning default level.");
-        return GetDefaultLevel();
-    }
-    
-    private static LevelData GetDefaultLevel()
-    {
-        return new LevelData(
-            id: 0,
-            name: "Default Level",
-            health: 100,
-            enemies: new int[] { },
-            count: 0,
-            diff: 1.0f
-        );
+        {
+            return levels[PlayerPrefs.GetInt("SelectedLevel")];
+        }
     }
     
     public static bool LevelExists(int id)
