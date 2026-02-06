@@ -1,0 +1,861 @@
+fileFormatVersion: 2
+guid: 4b12c1890486eb44c9978b250ea42992
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4423540264491571900
+    second: RotateClean_0
+  - first:
+      213: 6647138915392967539
+    second: RotateClean_1
+  - first:
+      213: -7882584707301715772
+    second: RotateClean_2
+  - first:
+      213: -1798065000642124013
+    second: RotateClean_3
+  - first:
+      213: 5921836313021828415
+    second: RotateClean_4
+  - first:
+      213: 1545673715200911551
+    second: RotateClean_5
+  - first:
+      213: -3288714782291063843
+    second: RotateClean_6
+  - first:
+      213: -294448568142833208
+    second: RotateClean_7
+  - first:
+      213: -1747724130699367744
+    second: RotateClean_8
+  - first:
+      213: 2232607777019803884
+    second: RotateClean_9
+  - first:
+      213: -290072942440352578
+    second: RotateClean_10
+  - first:
+      213: -6460554258612834325
+    second: RotateClean_11
+  - first:
+      213: -6724588398077458883
+    second: RotateClean_12
+  - first:
+      213: -6426077548469977906
+    second: RotateClean_13
+  - first:
+      213: 6199250234354001914
+    second: RotateClean_14
+  - first:
+      213: -929478988071550540
+    second: RotateClean_15
+  - first:
+      213: 4366193691412155524
+    second: RotateClean_16
+  - first:
+      213: 3088481349730610765
+    second: RotateClean_17
+  - first:
+      213: 7667585140721295392
+    second: RotateClean_18
+  - first:
+      213: -7201375336439175686
+    second: RotateClean_19
+  - first:
+      213: -50087111568376405
+    second: RotateClean_20
+  - first:
+      213: -5612726016300015494
+    second: RotateClean_21
+  - first:
+      213: 2440819999339536659
+    second: RotateClean_22
+  - first:
+      213: -6484764304462477670
+    second: RotateClean_23
+  - first:
+      213: 4507681640915184475
+    second: RotateClean_24
+  - first:
+      213: 8695402804085236197
+    second: RotateClean_25
+  - first:
+      213: -1707704384294354041
+    second: RotateClean_26
+  - first:
+      213: 5388891947412654289
+    second: RotateClean_27
+  - first:
+      213: -279470461007963647
+    second: RotateClean_28
+  - first:
+      213: 4659511172413491637
+    second: RotateClean_29
+  - first:
+      213: 8362804513667804799
+    second: RotateClean_30
+  - first:
+      213: 4783525628118918750
+    second: RotateClean_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RotateClean_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1386
+        width: 186
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5483871, y: 0.5083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba58a20f62936d30800000000000000
+      internalID: 4423540264491571900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1381
+        width: 177
+        height: 128
+      alignment: 9
+      pivot: {x: 0.48022598, y: 0.53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3735ca020a16f3c50800000000000000
+      internalID: 6647138915392967539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1385
+        width: 173
+        height: 125
+      alignment: 9
+      pivot: {x: 0.47976878, y: 0.528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0da51f8fe6b9290800000000000000
+      internalID: -7882584707301715772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_3
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1379
+        width: 175
+        height: 132
+      alignment: 9
+      pivot: {x: 0.46857142, y: 0.53030306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317e9a1986dfb07e0800000000000000
+      internalID: -1798065000642124013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_5
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1386
+        width: 182
+        height: 122
+      alignment: 9
+      pivot: {x: 0.47252747, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8653dfd06537510800000000000000
+      internalID: 1545673715200911551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1235
+        width: 199
+        height: 126
+      alignment: 9
+      pivot: {x: 0.40703517, y: 0.5158731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb07f174532c52d0800000000000000
+      internalID: -3288714782291063843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1224
+        width: 202
+        height: 132
+      alignment: 9
+      pivot: {x: 0.42574257, y: 0.5833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9593b5698e9ebf0800000000000000
+      internalID: -294448568142833208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_8
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1228
+        width: 202
+        height: 130
+      alignment: 9
+      pivot: {x: 0.35643563, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca2948b926deb7e0800000000000000
+      internalID: -1747724130699367744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_9
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1221
+        width: 191
+        height: 132
+      alignment: 9
+      pivot: {x: 0.38743457, y: 0.5833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce83a00c1f0dbfe10800000000000000
+      internalID: 2232607777019803884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1068
+        width: 199
+        height: 129
+      alignment: 9
+      pivot: {x: 0.42713568, y: 0.5813953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4f3ea123479fbf0800000000000000
+      internalID: -290072942440352578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_13
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1079
+        width: 186
+        height: 123
+      alignment: 9
+      pivot: {x: 0.43010753, y: 0.58536583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc7558348cf1d6a0800000000000000
+      internalID: -6426077548469977906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_14
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1077
+        width: 173
+        height: 124
+      alignment: 9
+      pivot: {x: 0.47976878, y: 0.5564516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af76d6c3e39280650800000000000000
+      internalID: 6199250234354001914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_15
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1075
+        width: 177
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5084746, y: 0.5298507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b14ec1f8c3d913f0800000000000000
+      internalID: -929478988071550540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_16
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1080
+        width: 169
+        height: 121
+      alignment: 9
+      pivot: {x: 0.46745563, y: 0.5454545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c4c2d7706d79c30800000000000000
+      internalID: 4366193691412155524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 916
+        width: 197
+        height: 126
+      alignment: 9
+      pivot: {x: 0.42639592, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020a1c59f0cb86a60800000000000000
+      internalID: 7667585140721295392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_19
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 922
+        width: 170
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5529412, y: 0.56198347}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5a84939439f0c90800000000000000
+      internalID: -7201375336439175686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_20
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 922
+        width: 166
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5120482, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad3423990e0e4ff0800000000000000
+      internalID: -50087111568376405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_21
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 915
+        width: 171
+        height: 127
+      alignment: 9
+      pivot: {x: 0.54385966, y: 0.5590551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7028d8fc679b12b0800000000000000
+      internalID: -5612726016300015494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_22
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 918
+        width: 175
+        height: 131
+      alignment: 9
+      pivot: {x: 0.52, y: 0.55725193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3116d4d7bd88fd120800000000000000
+      internalID: 2440819999339536659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 756
+        width: 188
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5585106, y: 0.5564516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96816c093d7106a0800000000000000
+      internalID: -6484764304462477670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 747
+        width: 193
+        height: 129
+      alignment: 9
+      pivot: {x: 0.5854922, y: 0.55813956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bac47d1908e8e30800000000000000
+      internalID: 4507681640915184475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_25
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 748
+        width: 203
+        height: 131
+      alignment: 9
+      pivot: {x: 0.6699507, y: 0.5954198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1af64b7c64ca870800000000000000
+      internalID: 8695402804085236197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_26
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 753
+        width: 186
+        height: 126
+      alignment: 9
+      pivot: {x: 0.6451613, y: 0.5873016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78302c809e30d48e0800000000000000
+      internalID: -1707704384294354041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 602
+        width: 204
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5980392, y: 0.53968257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d88e72bca039ca40800000000000000
+      internalID: 5388891947412654289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_28
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 600
+        width: 179
+        height: 125
+      alignment: 9
+      pivot: {x: 0.55307263, y: 0.544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ad76ea81f1f1cf0800000000000000
+      internalID: -279470461007963647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_29
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 598
+        width: 180
+        height: 131
+      alignment: 9
+      pivot: {x: 0.55, y: 0.54198474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b98ba269b8e9a040800000000000000
+      internalID: 4659511172413491637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 445
+        width: 182
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5494506, y: 0.52845526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ee33ba566ae0470800000000000000
+      internalID: 8362804513667804799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RotateClean_31
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 445
+        width: 179
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5027027, y: 0.5114504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56610ee63f726240800000000000000
+      internalID: 4783525628118918750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c331f49d2e20ac346932393e7a3fff4a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RotateClean_0: 4423540264491571900
+      RotateClean_1: 6647138915392967539
+      RotateClean_10: -290072942440352578
+      RotateClean_11: -6460554258612834325
+      RotateClean_12: -6724588398077458883
+      RotateClean_13: -6426077548469977906
+      RotateClean_14: 6199250234354001914
+      RotateClean_15: -929478988071550540
+      RotateClean_16: 4366193691412155524
+      RotateClean_17: 3088481349730610765
+      RotateClean_18: 7667585140721295392
+      RotateClean_19: -7201375336439175686
+      RotateClean_2: -7882584707301715772
+      RotateClean_20: -50087111568376405
+      RotateClean_21: -5612726016300015494
+      RotateClean_22: 2440819999339536659
+      RotateClean_23: -6484764304462477670
+      RotateClean_24: 4507681640915184475
+      RotateClean_25: 8695402804085236197
+      RotateClean_26: -1707704384294354041
+      RotateClean_27: 5388891947412654289
+      RotateClean_28: -279470461007963647
+      RotateClean_29: 4659511172413491637
+      RotateClean_3: -1798065000642124013
+      RotateClean_30: 8362804513667804799
+      RotateClean_31: 4783525628118918750
+      RotateClean_4: 5921836313021828415
+      RotateClean_5: 1545673715200911551
+      RotateClean_6: -3288714782291063843
+      RotateClean_7: -294448568142833208
+      RotateClean_8: -1747724130699367744
+      RotateClean_9: 2232607777019803884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1211 @@
+fileFormatVersion: 2
+guid: 0b8d59fb8fbf8c44c8f07ca135b31ff6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2094754538714576517
+    second: fullrotation2_Nofire_0
+  - first:
+      213: 7857390490372961188
+    second: fullrotation2_Nofire_1
+  - first:
+      213: 1868482404672462325
+    second: fullrotation2_Nofire_2
+  - first:
+      213: -3881538859739226887
+    second: fullrotation2_Nofire_3
+  - first:
+      213: -1868054928241416857
+    second: fullrotation2_Nofire_4
+  - first:
+      213: 166585267137549490
+    second: fullrotation2_Nofire_5
+  - first:
+      213: 4373387349190498119
+    second: fullrotation2_Nofire_6
+  - first:
+      213: -5439385891763058609
+    second: fullrotation2_Nofire_7
+  - first:
+      213: -4665379499654841248
+    second: fullrotation2_Nofire_8
+  - first:
+      213: 2836050080481789767
+    second: fullrotation2_Nofire_9
+  - first:
+      213: 6170218904517490784
+    second: fullrotation2_Nofire_10
+  - first:
+      213: -6355796595624167425
+    second: fullrotation2_Nofire_11
+  - first:
+      213: -4211902231444831297
+    second: fullrotation2_Nofire_12
+  - first:
+      213: -1017824403580575552
+    second: fullrotation2_Nofire_13
+  - first:
+      213: 8934648528478818706
+    second: fullrotation2_Nofire_14
+  - first:
+      213: 4965190551431516678
+    second: fullrotation2_Nofire_15
+  - first:
+      213: 315647424378756140
+    second: fullrotation2_Nofire_16
+  - first:
+      213: -2229153772223177792
+    second: fullrotation2_Nofire_17
+  - first:
+      213: -9199782368794258692
+    second: fullrotation2_Nofire_18
+  - first:
+      213: 4223738215274096969
+    second: fullrotation2_Nofire_19
+  - first:
+      213: 3424899677318017455
+    second: fullrotation2_Nofire_20
+  - first:
+      213: 32021513126410488
+    second: fullrotation2_Nofire_21
+  - first:
+      213: -6835611384566078009
+    second: fullrotation2_Nofire_22
+  - first:
+      213: -1579411378924436292
+    second: fullrotation2_Nofire_23
+  - first:
+      213: -4017453375270921084
+    second: fullrotation2_Nofire_24
+  - first:
+      213: -8620750666668459173
+    second: fullrotation2_Nofire_25
+  - first:
+      213: -644985734614270437
+    second: fullrotation2_Nofire_26
+  - first:
+      213: -3855209173684783437
+    second: fullrotation2_Nofire_27
+  - first:
+      213: -4431629689521176893
+    second: fullrotation2_Nofire_28
+  - first:
+      213: -6376414392606709658
+    second: fullrotation2_Nofire_29
+  - first:
+      213: 6869259040251063888
+    second: fullrotation2_Nofire_30
+  - first:
+      213: -7987647697136180398
+    second: fullrotation2_Nofire_31
+  - first:
+      213: 2907013034888639690
+    second: fullrotation2_Nofire_32
+  - first:
+      213: 4914815116930900597
+    second: fullrotation2_Nofire_33
+  - first:
+      213: -340618375643219254
+    second: fullrotation2_Nofire_34
+  - first:
+      213: 3810096936945605536
+    second: fullrotation2_Nofire_35
+  - first:
+      213: 6765915066151417943
+    second: fullrotation2_Nofire_36
+  - first:
+      213: -486747843213601088
+    second: fullrotation2_Nofire_37
+  - first:
+      213: 8332604850146901259
+    second: fullrotation2_Nofire_38
+  - first:
+      213: 8070896112931169083
+    second: fullrotation2_Nofire_39
+  - first:
+      213: 3146944626044812406
+    second: fullrotation2_Nofire_40
+  - first:
+      213: 6662292033523292690
+    second: fullrotation2_Nofire_41
+  - first:
+      213: -198026758720895748
+    second: fullrotation2_Nofire_42
+  - first:
+      213: 6088277327720550096
+    second: fullrotation2_Nofire_43
+  - first:
+      213: 4515795203068085187
+    second: fullrotation2_Nofire_44
+  - first:
+      213: -8406180647914090076
+    second: fullrotation2_Nofire_45
+  - first:
+      213: 3618558272015673546
+    second: fullrotation2_Nofire_46
+  - first:
+      213: -5075218862209578744
+    second: fullrotation2_Nofire_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1351
+        width: 211
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58638bb8720121d10800000000000000
+      internalID: 2094754538714576517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1351
+        width: 201
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a37630550f0b0d60800000000000000
+      internalID: 7857390490372961188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1351
+        width: 183
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdd19fe8de2ee910800000000000000
+      internalID: 1868482404672462325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_3
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1351
+        width: 199
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc5e5be8f0022ac0800000000000000
+      internalID: -3881538859739226887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_4
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1352
+        width: 219
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765a04da0f55316e0800000000000000
+      internalID: -1868054928241416857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1201
+        width: 210
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b41c88fa64df4200800000000000000
+      internalID: 166585267137549490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1207
+        width: 224
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48013db95b6384b0800000000000000
+      internalID: -5439385891763058609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_8
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1203
+        width: 204
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cfea4301e314fb0800000000000000
+      internalID: -4665379499654841248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_9
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1205
+        width: 202
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747c55ca58cab5720800000000000000
+      internalID: 2836050080481789767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_11
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1026
+        width: 198
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff73f25bbacabc7a0800000000000000
+      internalID: -6355796595624167425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 899
+        width: 219
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb34e027c315c85c0800000000000000
+      internalID: -4211902231444831297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1031
+        width: 222
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c02bdcf816ffd1f0800000000000000
+      internalID: -1017824403580575552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 902
+        width: 185
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cdc5cf8a7616400800000000000000
+      internalID: 315647424378756140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1036
+        width: 211
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb5ae864747011e0800000000000000
+      internalID: -2229153772223177792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_18
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 900
+        width: 199
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2dd199daec35080800000000000000
+      internalID: -9199782368794258692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_19
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1033
+        width: 206
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949a7a9478bbd9a30800000000000000
+      internalID: 4223738215274096969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 750
+        width: 193
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5a25099a70321a0800000000000000
+      internalID: -6835611384566078009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_23
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 749
+        width: 184
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4cffc08bdc41ae0800000000000000
+      internalID: -1579411378924436292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_24
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 749
+        width: 185
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c5849c0732f38c0800000000000000
+      internalID: -4017453375270921084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_25
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 749
+        width: 182
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bb30081f0fc5880800000000000000
+      internalID: -8620750666668459173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_26
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 749
+        width: 206
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e3f1344ec8c07f0800000000000000
+      internalID: -644985734614270437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 545
+        width: 202
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6f0bbaeab8f7ac0800000000000000
+      internalID: -3855209173684783437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_28
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 563
+        width: 182
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cef304f640bf72c0800000000000000
+      internalID: -4431629689521176893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_29
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 545
+        width: 191
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6682df3c4ec6287a0800000000000000
+      internalID: -6376414392606709658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_30
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 545
+        width: 207
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e2e44c3b2845f50800000000000000
+      internalID: 6869259040251063888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_31
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 540
+        width: 211
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2532b356dbc262190800000000000000
+      internalID: -7987647697136180398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 364
+        width: 197
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4b7f504f8c75820800000000000000
+      internalID: 2907013034888639690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 365
+        width: 186
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572e26d1f4ee43440800000000000000
+      internalID: 4914815116930900597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_34
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 365
+        width: 184
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acab0db5461e54bf0800000000000000
+      internalID: -340618375643219254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_35
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 365
+        width: 194
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab52763afe20e430800000000000000
+      internalID: 3810096936945605536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_36
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 364
+        width: 234
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7583b62c7eb55ed50800000000000000
+      internalID: 6765915066151417943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_37
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 194
+        width: 200
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6d01e5a69be39f0800000000000000
+      internalID: -486747843213601088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_38
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 191
+        width: 178
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0df3b296fb53a370800000000000000
+      internalID: 8332604850146901259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_39
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 186
+        width: 178
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33e756d045910070800000000000000
+      internalID: 8070896112931169083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_40
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 184
+        width: 178
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cb933d6713cab20800000000000000
+      internalID: 3146944626044812406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_41
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 195
+        width: 187
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a12106e47357c50800000000000000
+      internalID: 6662292033523292690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 22
+        width: 218
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de09d4f8f7ed7450800000000000000
+      internalID: 6088277327720550096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_44
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 26
+        width: 182
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3494dbfc35bae30800000000000000
+      internalID: 4515795203068085187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_45
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 33
+        width: 204
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a151531d3f375b80800000000000000
+      internalID: -8406180647914090076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_46
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 37
+        width: 182
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8ab829393b73230800000000000000
+      internalID: 3618558272015673546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fullrotation2_Nofire_47
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 31
+        width: 191
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809c2a0a5533199b0800000000000000
+      internalID: -5075218862209578744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c530f46444662fb4aba9cad66e319c8f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fullrotation2_Nofire_0: 2094754538714576517
+      fullrotation2_Nofire_1: 7857390490372961188
+      fullrotation2_Nofire_10: 6170218904517490784
+      fullrotation2_Nofire_11: -6355796595624167425
+      fullrotation2_Nofire_12: -4211902231444831297
+      fullrotation2_Nofire_13: -1017824403580575552
+      fullrotation2_Nofire_14: 8934648528478818706
+      fullrotation2_Nofire_15: 4965190551431516678
+      fullrotation2_Nofire_16: 315647424378756140
+      fullrotation2_Nofire_17: -2229153772223177792
+      fullrotation2_Nofire_18: -9199782368794258692
+      fullrotation2_Nofire_19: 4223738215274096969
+      fullrotation2_Nofire_2: 1868482404672462325
+      fullrotation2_Nofire_20: 3424899677318017455
+      fullrotation2_Nofire_21: 32021513126410488
+      fullrotation2_Nofire_22: -6835611384566078009
+      fullrotation2_Nofire_23: -1579411378924436292
+      fullrotation2_Nofire_24: -4017453375270921084
+      fullrotation2_Nofire_25: -8620750666668459173
+      fullrotation2_Nofire_26: -644985734614270437
+      fullrotation2_Nofire_27: -3855209173684783437
+      fullrotation2_Nofire_28: -4431629689521176893
+      fullrotation2_Nofire_29: -6376414392606709658
+      fullrotation2_Nofire_3: -3881538859739226887
+      fullrotation2_Nofire_30: 6869259040251063888
+      fullrotation2_Nofire_31: -7987647697136180398
+      fullrotation2_Nofire_32: 2907013034888639690
+      fullrotation2_Nofire_33: 4914815116930900597
+      fullrotation2_Nofire_34: -340618375643219254
+      fullrotation2_Nofire_35: 3810096936945605536
+      fullrotation2_Nofire_36: 6765915066151417943
+      fullrotation2_Nofire_37: -486747843213601088
+      fullrotation2_Nofire_38: 8332604850146901259
+      fullrotation2_Nofire_39: 8070896112931169083
+      fullrotation2_Nofire_4: -1868054928241416857
+      fullrotation2_Nofire_40: 3146944626044812406
+      fullrotation2_Nofire_41: 6662292033523292690
+      fullrotation2_Nofire_42: -198026758720895748
+      fullrotation2_Nofire_43: 6088277327720550096
+      fullrotation2_Nofire_44: 4515795203068085187
+      fullrotation2_Nofire_45: -8406180647914090076
+      fullrotation2_Nofire_46: 3618558272015673546
+      fullrotation2_Nofire_47: -5075218862209578744
+      fullrotation2_Nofire_5: 166585267137549490
+      fullrotation2_Nofire_6: 4373387349190498119
+      fullrotation2_Nofire_7: -5439385891763058609
+      fullrotation2_Nofire_8: -4665379499654841248
+      fullrotation2_Nofire_9: 2836050080481789767
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
