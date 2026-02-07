@@ -100,3 +100,23 @@ InitTestScene*.unity*
 
 #Ignore visual studio
 *.vsconfig
+/Assets/prefab/dustin/Enemies/FlyTest
+/Assets/prefab/dustin/Enemies/low-poly-dragonfly-rigged-animated-3d-model
+/Assets/prefab/dustin/Enemies/low-poly-honey-bee-rigged-animated-3d-model
+/Assets/prefab/dustin/Enemies/low-poly-housefly-insect-rigged-animated-3d-model
+/Assets/prefab/dustin/Enemies/low-poly-mosquito-rigged-animated-3d-model
+/Assets/prefab/dustin/Enemies/low-poly-wasp-insect-rigged-animated-3d-model
+/Assets/prefab/dustin/Enemies/Fly1.anim
+/Assets/prefab/dustin/Enemies/Fly1.anim.meta
+/Assets/prefab/dustin/Enemies/FlyingSheep.controller
+/Assets/prefab/dustin/Enemies/FlyingSheep.controller.meta
+/Assets/prefab/dustin/Enemies/FlyingSheep.png
+/Assets/prefab/dustin/Enemies/FlyingSheep.png.meta
+/Assets/prefab/dustin/Enemies/flyingsheep_Forward.png
+/Assets/prefab/dustin/Enemies/flyingsheep_Forward.png.meta
+/Assets/prefab/dustin/Enemies/FlyTest.meta
+/Assets/prefab/dustin/Enemies/low-poly-dragonfly-rigged-animated-3d-model.meta
+/Assets/prefab/dustin/Enemies/low-poly-honey-bee-rigged-animated-3d-model.meta
+/Assets/prefab/dustin/Enemies/low-poly-housefly-insect-rigged-animated-3d-model.meta
+/Assets/prefab/dustin/Enemies/low-poly-mosquito-rigged-animated-3d-model.meta
+/Assets/prefab/dustin/Enemies/low-poly-wasp-insect-rigged-animated-3d-model.meta
